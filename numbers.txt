@@ -1,3 +1,4 @@
 ONE
 TWO
 revert state one
+revert state two
