@@ -1,3 +1,2 @@
 ONE
 TWO
-revert state one
