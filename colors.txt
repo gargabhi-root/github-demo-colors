@@ -4,5 +4,3 @@ yellow
 green
 blue 
 Indigo
-color again???
-shoottot
